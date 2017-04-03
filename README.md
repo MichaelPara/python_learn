@@ -2,7 +2,7 @@
 This project records how I start to learn python programming
 
 
-* 1 setup environment
+# **setup environment**
 	+ install vagrant
           open DOS  and input 
           > vagrant box add bento/ubuntu-16.04
